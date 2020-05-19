@@ -1,5 +1,4 @@
 * linguist-vendored
-*.js linguist-language=Node.js
 *.js linguist-vendored=false
 *.py linguist-vendored=false
 
